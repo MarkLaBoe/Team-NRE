@@ -9,6 +9,16 @@ C:\Users\Mark\AppData\Local\Temporary Projects\TeamNRE_SeniorProject\obj\Debug\T
 C:\Users\Mark\AppData\Local\Temporary Projects\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.pdb
 C:\Users\Mark\AppData\Local\Temporary Projects\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.AdminHome.resources
 C:\Users\Mark\AppData\Local\Temporary Projects\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.UserHome.resources
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.AddEditProject.resources
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.AdminHome.resources
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.Login.resources
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.Properties.Resources.resources
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.UserHome.resources
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.csproj.GenerateResource.Cache
 C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\bin\Debug\TeamNRE_SeniorProject.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\bin\Debug\TeamNRE_SeniorProject.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\bin\Debug\TeamNRE_SeniorProject.pdb
 C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.exe
 C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.AddEditTime.resources
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.BurndownChart.resources
