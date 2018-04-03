@@ -33,6 +33,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
@@ -45,7 +46,6 @@
             this.homeBtn = new System.Windows.Forms.Button();
             this.label11 = new System.Windows.Forms.Label();
             this.textBox23 = new System.Windows.Forms.TextBox();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.panel2 = new System.Windows.Forms.Panel();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
@@ -131,7 +131,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(688, 12);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(113, 49);
+            this.button1.Size = new System.Drawing.Size(113, 50);
             this.button1.TabIndex = 15;
             this.button1.Text = "Clear All";
             this.button1.UseVisualStyleBackColor = true;
@@ -140,7 +140,7 @@
             // 
             this.addProjectBtn.Location = new System.Drawing.Point(569, 12);
             this.addProjectBtn.Name = "addProjectBtn";
-            this.addProjectBtn.Size = new System.Drawing.Size(113, 49);
+            this.addProjectBtn.Size = new System.Drawing.Size(113, 50);
             this.addProjectBtn.TabIndex = 14;
             this.addProjectBtn.Text = "Save Project";
             this.addProjectBtn.UseVisualStyleBackColor = true;
@@ -174,6 +174,17 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(958, 45);
             this.panel1.TabIndex = 16;
+            // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.checkBox1.Location = new System.Drawing.Point(803, 12);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(129, 24);
+            this.checkBox1.TabIndex = 32;
+            this.checkBox1.Text = "Is Completed";
+            this.checkBox1.UseVisualStyleBackColor = true;
             // 
             // textBox5
             // 
@@ -262,7 +273,7 @@
             // 
             this.homeBtn.Location = new System.Drawing.Point(807, 12);
             this.homeBtn.Name = "homeBtn";
-            this.homeBtn.Size = new System.Drawing.Size(113, 49);
+            this.homeBtn.Size = new System.Drawing.Size(113, 50);
             this.homeBtn.TabIndex = 29;
             this.homeBtn.Text = "Return Home";
             this.homeBtn.UseVisualStyleBackColor = true;
@@ -285,17 +296,6 @@
             this.textBox23.Name = "textBox23";
             this.textBox23.Size = new System.Drawing.Size(364, 30);
             this.textBox23.TabIndex = 31;
-            // 
-            // checkBox1
-            // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox1.Location = new System.Drawing.Point(803, 12);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(129, 24);
-            this.checkBox1.TabIndex = 32;
-            this.checkBox1.Text = "Is Completed";
-            this.checkBox1.UseVisualStyleBackColor = true;
             // 
             // panel2
             // 

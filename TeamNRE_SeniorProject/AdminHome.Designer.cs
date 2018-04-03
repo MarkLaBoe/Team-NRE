@@ -76,27 +76,29 @@
             // 
             // burndownBtn
             // 
-            this.burndownBtn.Location = new System.Drawing.Point(550, 177);
+            this.burndownBtn.Location = new System.Drawing.Point(550, 180);
             this.burndownBtn.Name = "burndownBtn";
-            this.burndownBtn.Size = new System.Drawing.Size(140, 49);
+            this.burndownBtn.Size = new System.Drawing.Size(140, 50);
             this.burndownBtn.TabIndex = 6;
             this.burndownBtn.Text = "View Burndown Chart";
             this.burndownBtn.UseVisualStyleBackColor = true;
+            this.burndownBtn.Click += new System.EventHandler(this.burndownBtn_Click);
             // 
             // deleteProjectBtn
             // 
-            this.deleteProjectBtn.Location = new System.Drawing.Point(550, 122);
+            this.deleteProjectBtn.Location = new System.Drawing.Point(550, 124);
             this.deleteProjectBtn.Name = "deleteProjectBtn";
-            this.deleteProjectBtn.Size = new System.Drawing.Size(140, 49);
+            this.deleteProjectBtn.Size = new System.Drawing.Size(140, 50);
             this.deleteProjectBtn.TabIndex = 8;
             this.deleteProjectBtn.Text = "Delete Project";
             this.deleteProjectBtn.UseVisualStyleBackColor = true;
+            this.deleteProjectBtn.Click += new System.EventHandler(this.deleteProjectBtn_Click);
             // 
             // addProjectBtn
             // 
             this.addProjectBtn.Location = new System.Drawing.Point(550, 12);
             this.addProjectBtn.Name = "addProjectBtn";
-            this.addProjectBtn.Size = new System.Drawing.Size(140, 49);
+            this.addProjectBtn.Size = new System.Drawing.Size(140, 50);
             this.addProjectBtn.TabIndex = 9;
             this.addProjectBtn.Text = "Add Project";
             this.addProjectBtn.UseVisualStyleBackColor = true;
@@ -104,9 +106,9 @@
             // 
             // quitBtn
             // 
-            this.quitBtn.Location = new System.Drawing.Point(550, 232);
+            this.quitBtn.Location = new System.Drawing.Point(550, 236);
             this.quitBtn.Name = "quitBtn";
-            this.quitBtn.Size = new System.Drawing.Size(140, 49);
+            this.quitBtn.Size = new System.Drawing.Size(140, 50);
             this.quitBtn.TabIndex = 10;
             this.quitBtn.Text = "Quit";
             this.quitBtn.UseVisualStyleBackColor = true;
@@ -114,9 +116,9 @@
             // 
             // editProjectBtn
             // 
-            this.editProjectBtn.Location = new System.Drawing.Point(550, 67);
+            this.editProjectBtn.Location = new System.Drawing.Point(550, 68);
             this.editProjectBtn.Name = "editProjectBtn";
-            this.editProjectBtn.Size = new System.Drawing.Size(140, 49);
+            this.editProjectBtn.Size = new System.Drawing.Size(140, 50);
             this.editProjectBtn.TabIndex = 11;
             this.editProjectBtn.Text = "Edit Project";
             this.editProjectBtn.UseVisualStyleBackColor = true;
@@ -126,7 +128,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(702, 289);
+            this.ClientSize = new System.Drawing.Size(702, 298);
             this.ControlBox = false;
             this.Controls.Add(this.editProjectBtn);
             this.Controls.Add(this.quitBtn);

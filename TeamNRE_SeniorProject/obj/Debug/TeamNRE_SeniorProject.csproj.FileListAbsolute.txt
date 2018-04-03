@@ -22,3 +22,4 @@ C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNR
 C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.pdb
 C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.AddEditTime.resources
 C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.BurndownChart.resources
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TeamNRE_SeniorProject\TeamNRE_SeniorProject\obj\Debug\TeamNRE_SeniorProject.csprojResolveAssemblyReference.cache

@@ -16,5 +16,10 @@ namespace TeamNRE_SeniorProject
         {
             InitializeComponent();
         }
+
+        private void homeBtn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
     }
 }

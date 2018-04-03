@@ -30,12 +30,18 @@ namespace TeamNRE_SeniorProject
 
         private void addTimeBtn_Click(object sender, EventArgs e)
         {
-            aETime.Show();
+            if (projectCbx.SelectedItem != null)
+            {
+                aETime.Show();
+            }
         }
 
         private void burndownBtn_Click(object sender, EventArgs e)
         {
-            bDChart.Show();
+            if (projectCbx.SelectedItem != null)
+            {
+                bDChart.Show();
+            }
         }
     }
 }

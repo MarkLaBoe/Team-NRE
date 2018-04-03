@@ -28,17 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.homeBtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // homeBtn
             // 
-            this.button1.Location = new System.Drawing.Point(684, 479);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(184, 60);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Return Home";
-            this.button1.UseVisualStyleBackColor = true;
+            this.homeBtn.Location = new System.Drawing.Point(755, 490);
+            this.homeBtn.Name = "homeBtn";
+            this.homeBtn.Size = new System.Drawing.Size(113, 49);
+            this.homeBtn.TabIndex = 30;
+            this.homeBtn.Text = "Return Home";
+            this.homeBtn.UseVisualStyleBackColor = true;
+            this.homeBtn.Click += new System.EventHandler(this.homeBtn_Click);
             // 
             // BurndownChart
             // 
@@ -46,7 +47,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(880, 551);
             this.ControlBox = false;
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.homeBtn);
             this.Name = "BurndownChart";
             this.Text = "Burndown Chart";
             this.ResumeLayout(false);
@@ -55,6 +56,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button homeBtn;
+
     }
 }

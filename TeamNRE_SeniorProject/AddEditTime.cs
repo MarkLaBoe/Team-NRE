@@ -21,5 +21,10 @@ namespace TeamNRE_SeniorProject
         {
             this.Hide();
         }
+
+        private void clearAllButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
